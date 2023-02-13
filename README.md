@@ -1,4 +1,4 @@
-# vlcplayer
+# video-audio player
 
 A new Flutter project.
 
