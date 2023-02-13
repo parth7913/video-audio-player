@@ -1,6 +1,6 @@
 # video-audio player
 
-## Getting Started
+## Preview
 <p>
 <img src="https://user-images.githubusercontent.com/113604075/218373210-a2bb055e-d04e-4172-ae50-f5a91453ec43.png"width=22%height=35%>
 <img src="https://user-images.githubusercontent.com/113604075/218373905-a3d2a5ee-17a9-4195-a8ab-ad884fd703bd.png"width=22%height=35%>
